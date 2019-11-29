@@ -1,11 +1,11 @@
 # Site settings
-author: Shana Wiltshire
-title: 
+author: Shana Hendrickson
+title: Traffic Jam of Life
 header-img: img/home-bg.png
 email: shanawiltshire@gmail.com
-copyright_name: Shana Wiltshire
+copyright_name: Shana Hendrickson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey to Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ashucoding
