@@ -1,15 +1,15 @@
 ---
 layout: post
 title:      "CLI Data Gem Project"
-date:       2020-04-25 18:00:51 +0000
+date:       2020-04-25 14:00:52 -0400
 permalink:  cli_data_gem_project
 ---
 
 THE GOOD. THE BAD. THE UGLY
 
-```
 
-```First project of the course is the CLI Data Gem. This project purpose is to embody all of the lessons learned in Obeject Oriented Ruby, specifically focusing on methods, calls, and from more recent lessons, scraping information from a website of your choice. The objective of the project is to build a Ruby Gem with CLI completed with licenses, bundles, and all the components to execute your program. 
+
+``First project of the course is the CLI Data Gem. This project purpose is to embody all of the lessons learned in Obeject Oriented Ruby, specifically focusing on methods, calls, and from more recent lessons, scraping information from a website of your choice. The objective of the project is to build a Ruby Gem with CLI completed with licenses, bundles, and all the components to execute your program. 
 
 ```
 
